@@ -62,15 +62,21 @@ This will help you to be an UI/UX Designer, only need your motivation to reach t
    
    ![dcnz9ss-a4454980-a735-4871-a2b4-ebddc6479632](https://user-images.githubusercontent.com/55780925/195998567-b76ba85a-d042-4286-970a-1e4826664265.jpg) <br> <br>
 <a href ="https://www.youtube.com/watch?v=0nAXnnctNrM"> what is UX process in arabic Video </a> <br> 
+<a href="https://www.edraak.org/en/programs/course-v1:Edraak+UX1+2018_T1/"> Edraak course UX
 <a href ="https://www.youtube.com/watch?v=rYH7AErVd7w"> what is UX process in English video </a> <br>
  <a href ="https://www.invisionapp.com/inside-design/6-stages-ux-process/"> What is UX Design Process? </a> <br>
  <a href ="https://www.youtube.com/watch?v=2IqfyV6zoCI&list=PLMDrOnfT8EAihDe2IzCk6OtXd5m9DJ7qy"> UX Proces Toutrial </a> <br>
  
+ 
   <h4> UX Research </h4>
   <a href="https://www.eleken.co/blog-posts/ux-research-process"> What is UX Research </a> <br>
-  
+  <a href ="https://www.youtube.com/watch?v=9dkGoWhgQBg"> What is design thnking in UX </a> <br>
+  <a href ="https://www.interaction-design.org/literature/topics/design-thinking#:~:text=Design%20thinking%20is%20a%20non,are%20ill%2Ddefined%20or%20unknown."> Design Thinking In UX </a> <br>
+  <a href ="https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews"> what is interview? </a> <br>
+  <a href="https://www.youtube.com/watch?v=auQCdrRfYas"> how to mak interview with your stalkholders </a> <br> 
  
- 
+  <h4> Information Architcure </h4>
+  <a href="https://www.toptal.com/designers/ia/guide-to-information-architecture#:~:text=Information%20architecture%20(IA)%20is%2C,behaviors%2C%20content%2C%20and%20flows."> what is IA? </a> <br>
  
  <h3> UX Tools </h3>
  <a href= "https://miro.com/app/dashboard/"> Miro for UX Research Templates </a> <br>
@@ -83,6 +89,7 @@ This will help you to be an UI/UX Designer, only need your motivation to reach t
   <a href ="https://www.youtube.com/c/Figmadesign"> Figma </a> <br>
   <a href ="https://www.youtube.com/c/googledesign"> Google Design </a> <br>
   <a href ="https://www.youtube.com/howardpinsky"> Howard Pinsky <//a> <br>
+   <a href="https://www.youtube.com/c/AhmadMSekmani"> Ahmed Sekmani UI/UX </a> <br>
   <a href ="https://www.facebook.com/groups/188850591141932"> UXaweya </a> <br>
   <a href ="https://www.interaction-design.org/"> IDF </a> <br>
   <a href ="https://www.nngroup.com/"> NN/G </a> <br>
