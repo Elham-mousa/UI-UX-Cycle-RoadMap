@@ -68,7 +68,7 @@ This will help you to be an UI/UX Designer, only need your motivation to reach t
  <a href ="https://www.youtube.com/watch?v=2IqfyV6zoCI&list=PLMDrOnfT8EAihDe2IzCk6OtXd5m9DJ7qy"> UX Proces Toutrial </a> <br>
  
  
-  <h4> UX Research </h4>
+  <h4> UX Research And Design Thinking</h4>
   <a href="https://www.eleken.co/blog-posts/ux-research-process"> What is UX Research </a> <br>
   <a href ="https://www.youtube.com/watch?v=9dkGoWhgQBg"> What is design thnking in UX </a> <br>
   <a href ="https://www.interaction-design.org/literature/topics/design-thinking#:~:text=Design%20thinking%20is%20a%20non,are%20ill%2Ddefined%20or%20unknown."> Design Thinking In UX </a> <br>
@@ -77,6 +77,11 @@ This will help you to be an UI/UX Designer, only need your motivation to reach t
  
   <h4> Information Architcure </h4>
   <a href="https://www.toptal.com/designers/ia/guide-to-information-architecture#:~:text=Information%20architecture%20(IA)%20is%2C,behaviors%2C%20content%2C%20and%20flows."> what is IA? </a> <br>
+ 
+  <h4> User persona </h4>
+  <a href="https://www.youtube.com/watch?v=QhN2-gnuaVA"> How to make persona in Arabic </a> <br>
+  <a href ="https://www.uxdesigninstitute.com/blog/what-are-ux-personas/#:~:text=A%20UX%20persona%20is%20a,and%20make%20design%20decisions%20accordingly."> What is persona in UX? </a> <br>
+  <a href="https://www.youtube.com/watch?v=u44pBnAn7cM"> How to make persona? </a> <br>
  
  <h3> UX Tools </h3>
  <a href= "https://miro.com/app/dashboard/"> Miro for UX Research Templates </a> <br>
