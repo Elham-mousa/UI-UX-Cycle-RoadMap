@@ -66,7 +66,30 @@ This will help you to be an UI/UX Designer, only need your motivation to reach t
  <a href ="https://www.invisionapp.com/inside-design/6-stages-ux-process/"> What is UX Design Process? </a> <br>
  <a href ="https://www.youtube.com/watch?v=2IqfyV6zoCI&list=PLMDrOnfT8EAihDe2IzCk6OtXd5m9DJ7qy"> UX Proces Toutrial </a> <br>
  
- <h4> UX Research </h4>
+  <h4> UX Research </h4>
+  <a href="https://www.eleken.co/blog-posts/ux-research-process"> What is UX Research </a> <br>
+  
+ 
+ 
+ 
+ <h3> UX Tools </h3>
+ <a href= "https://miro.com/app/dashboard/"> Miro for UX Research Templates </a> <br>
+ <a href="https://www.google.com/forms/about/"> Google Forms for Servey </a> <br>
+ <a href="https://balsamiq.com/"> Balsamiq for Wireframe </a> <br>
+ <a href ="https://proto.io/"> Protorype </a> <br>
+ 
+ <h4> Resourses to follow news and Brands <h4>
+  <a href ="https://www.youtube.com/c/SherifAminUXDesigner/featured"> Sherif Amin UX </a> <br>
+  <a href ="https://www.youtube.com/c/Figmadesign"> Figma </a> <br>
+  <a href ="https://www.youtube.com/c/googledesign"> Google Design </a> <br>
+  <a href ="https://www.youtube.com/howardpinsky"> Howard Pinsky <//a> <br>
+  <a href ="https://www.facebook.com/groups/188850591141932"> UXaweya </a> <br>
+  <a href ="https://www.interaction-design.org/"> IDF </a> <br>
+  <a href ="https://www.nngroup.com/"> NN/G </a> <br>
+  <a href ="https://www.uxtalks.in/"> UX Talks </a> <br>
+  <a href ="https://www.uxpin.com/"> UXpin </a> <br>
+  <a href ="https://www.youtube.com/channel/UCC5Zotku6ESMRsCBiC9UeYA"> UX Writing Channel </a> <br>
+  
  
    
   
