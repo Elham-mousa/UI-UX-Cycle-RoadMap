@@ -73,14 +73,17 @@ This will help you to be an UI/UX Designer, only need your motivation to reach t
   <a href ="https://www.youtube.com/watch?v=9dkGoWhgQBg"> What is design thnking in UX </a> <br>
   <a href ="https://www.interaction-design.org/literature/topics/design-thinking#:~:text=Design%20thinking%20is%20a%20non,are%20ill%2Ddefined%20or%20unknown."> Design Thinking In UX </a> <br>
   <a href ="https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews"> what is interview? </a> <br>
-  <a href="https://www.youtube.com/watch?v=auQCdrRfYas"> how to make interview with your stakeholders </a> <br> 
+  <a href="https://www.youtube.com/watch?v=auQCdrRfYas"> how to make interview with your stakeholders </a> <br>
+  <a href="https://www.youtube.com/watch?v=hZ1x5FEfFCY"> Compatative analysis video
  
   <h4> Information Architcure </h4>
   <a href="https://www.toptal.com/designers/ia/guide-to-information-architecture#:~:text=Information%20architecture%20(IA)%20is%2C,behaviors%2C%20content%2C%20and%20flows."> what is IA? </a> <br>
   <a href="https://www.youtube.com/watch?v=TtvOiDxRPtE"> IA in Arabic </a> <br>
   <a href="https://www.youtube.com/watch?v=CkQ3q0gewrQ"> How to make IA </a> <br>
  
-  <h4> User persona </h4>
+  <h4> Empathy Map and User persona </h4>
+  <a href="https://www.youtube.com/watch?v=tnSllYKWlSs"> Emapthy Map arabiv video </a> <br>
+  <a href="https://www.nngroup.com/articles/empathy-mapping/"> what is Empathy Map </a> <br>
   <a href="https://www.youtube.com/watch?v=QhN2-gnuaVA"> How to make persona in Arabic </a> <br>
   <a href ="https://www.uxdesigninstitute.com/blog/what-are-ux-personas/#:~:text=A%20UX%20persona%20is%20a,and%20make%20design%20decisions%20accordingly."> What is persona in UX? </a> <br>
   <a href="https://www.youtube.com/watch?v=u44pBnAn7cM"> How to make persona? </a> <br>
@@ -114,5 +117,7 @@ This will help you to be an UI/UX Designer, only need your motivation to reach t
   
  
    
-  
-
+  <h4> Examples of Case study projects </h4>
+  <a href="https://www.behance.net/gallery/150034947/Healer-Graduation-Project-%28UIUX-Case-Study%29"> Healer case study </a> <br>
+  <a href ="https://www.behance.net/gallery/150190437/Fixin-Home-Services-App-UX-UI-Case-Study"> Home services case study </a> <br>
+  <a href="https://www.behance.net/gallery/120448139/Crafty-App-UXUI-Case-Study"> Crafty case study </a> <br>
