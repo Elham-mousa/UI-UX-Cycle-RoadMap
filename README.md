@@ -48,9 +48,12 @@ This will help you to be an UI/UX Designer, only need your motivation to reach t
   - Lorem Ipsum <br>
   
   <h4> Material UI Resourses </h4>
+  <a href ="https://99designs.com/blog/tips/typography-design/"> Typoghraphy design 101 rules </a> <br>
+  <a href ="http://zuga.net/articles/html-heading-elements/"> Heading font size </a> <br>
+  <a href ="https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/"> Color Theory </a> <br>
   <a href ="https://developer.apple.com/design/"> IOS Material UI </a> <br>
   <a href="https://material.io/"> Android Material </a> <br>
-  <a href ="https://xd.adobe.com/ideas/principles/design-systems/"> Design system </a>
+  <a href ="https://xd.adobe.com/ideas/principles/design-systems/"> Design system </a> <br>
    
    <h4> Tasks and Inspiration </h4>
    <a href ="https://dailyui.co"> Daily UI </a> <br>
